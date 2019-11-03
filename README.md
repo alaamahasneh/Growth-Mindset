@@ -26,5 +26,5 @@ jhh
 ![you can read about growth mindset studies](https://www.mindsetworks.com/science/)
 
 ## Now, What do you think about you?
-- [x] I will keeping try alwayes 
+- [x] I will keeping try alwayes   
 - [ ] NO,  i can't do it

@@ -1,6 +1,6 @@
 ## Growth-Mindset
 git practice
-
+now this a new section using git commands
 In this Website you can learn about  **Growth Mindset** , The most characteristics and qualities .
 
 ![Growth Mindset](https://www.piperandgold.com/sites/default/files/pg.blogpostheadercassie.5.1.19-01.png)
